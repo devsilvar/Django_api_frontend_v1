@@ -8,7 +8,7 @@ import { convertDateFormat } from '../utils/library';
 const Cards = ({ name, description, status, time, id }) => {
   return (
     <>
-      <div className='solution_cards_box border-3 col-md-3 col-lg-2 p-2 col-12'>
+      <div className='solution_cards_box border-3 col-md-3 col-lg-2 p-2 col-sm-10 '>
         <div className='solution_card'>
           <div className='hover_color_bubble'></div>
           <div className='so_top_icon d-flex justify-content-between'>
