@@ -14,7 +14,7 @@ const Todopage = () => {
         <Todolist data={Datas} />
         <button
           type='button'
-          className='btn btn-primary rounded-circle p-2 position-fixed bottom-0 end-0 m-5 '
+          className='btn btn-primary z-5 rounded-circle p-2 position-fixed bottom-0 end-0 m-5 '
           data-bs-toggle='modal'
           data-bs-target='#staticBackdrop'
         >

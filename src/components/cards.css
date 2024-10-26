@@ -45,7 +45,7 @@
   content: '';
   position: absolute;
   background: rgb(85 108 214 / 5%);
-  width: 170px;
+  width: 200px;
   height: 400px;
   z-index: -1;
   transform: rotate(42deg);
